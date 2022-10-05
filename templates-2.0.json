@@ -1041,21 +1041,7 @@
           "label": "Postgres password"
         }
       ]
-    }
-  ]
 },
-
-
-
-
-
-
-
-
-
-
-
-
 {
     "version": "2",
     "templates": [
